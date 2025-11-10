@@ -4,7 +4,7 @@ public class Practice_class_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Package JAVA");
+		System.out.println("Package JAVA_SELENIUM");
 
 	}
 
