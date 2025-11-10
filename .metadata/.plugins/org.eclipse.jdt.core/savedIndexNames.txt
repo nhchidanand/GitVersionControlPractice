@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+D:\Work\AutomationTesting\GitVersionControlPractice\.metadata\.plugins\org.eclipse.jdt.core
+2865009051.index
+101426820.index
+4142769058.index
+3814014478.index
+4160674580.index
+1086476767.index
+2361681192.index
+717517735.index
+3655737760.index
+760111219.index
+731020127.index
+3230993064.index
+2413772925.index
+2205125055.index
+2046931882.index
+2810413057.index
+1344878084.index
+2831788422.index
+1865797976.index
